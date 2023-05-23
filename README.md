@@ -96,4 +96,11 @@ Note: Close the OneDrive popup. You can ignore it, or disable it.
   password: Passw0rd!
   
   
+ Verify the Win10 workstation has leased a DHCP address from the LAN network. 
+
+  valid IP range: 10.128.0.[100-199]/24
+  
+  gateway: 10.128.0.1
+  
+  DHCP server: 10.128.0.1
   
