@@ -5,7 +5,7 @@ This is what I did in NTT class
 
 ![image](https://github.com/ajla827/NTT/assets/129989031/81db8a18-1d57-4d7c-83ae-be5d9c929583)
 
-
+---
 On a physical firewall the LAN interface is usually preconfigured. On a virtualized firewall you usually have to manually configure it. Once the LAN interface has been configured you will be able to access the firewall GUI from a device on the LAN.
 
 Per the clients request you will configure 10.128.0.0/24 as the LAN network.
@@ -78,3 +78,19 @@ Configure the LAN network on the firewall through the CLI over the console inter
 Add a Win10 workstation to the LAN network.
 Connect to the firewall GUI from the Win10 workstation.
 Complete the network setup through the firewall GUI.
+
+---
+Refer to the GNS3 Guide Starting and Stopping devices in the lab workspace.
+Start the Win10 workstation in GNS3, and then double click it to connect through VNC.
+The first time you start Win10 it will take a minute or two to setup.
+Click-and-hold the background image and drag up to show the login prompt.
+
+Login with the default credentials:
+
+Note: The username is already selected, you only need to enter the password.
+Note: Close the OneDrive popup. You can ignore it, or disable it.
+
+  username: IEUser
+  password: Passw0rd!
+  
+  
