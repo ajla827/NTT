@@ -101,6 +101,9 @@ Note: Close the OneDrive popup. You can ignore it, or disable it.
   valid IP range: 10.128.0.[100-199]/24
   
   gateway: 10.128.0.1
-  
   DHCP server: 10.128.0.1
   
+![image](https://github.com/ajla827/NTT/assets/129989031/eb617d1f-f429-400f-968d-dbfd2781f3db)
+
+#Test network connectivity:
+Ping remote destinations to test LAN, WAN, and DNS network connectivity.
