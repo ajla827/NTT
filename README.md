@@ -108,3 +108,14 @@ Note: Close the OneDrive popup. You can ignore it, or disable it.
 **Test network connectivity:**
 
 Ping remote destinations to test LAN, WAN, and DNS network connectivity.
+
+  LAN - 10.128.0.1
+  WAN - 8.8.8.8
+  DNS - google.com
+  
+  LAN access should work.
+  WAN and DNS should fail.
+
+![image](https://github.com/ajla827/NTT/assets/129989031/77f171ad-f62a-4e5d-8e98-03437042b00d)
+
+---
