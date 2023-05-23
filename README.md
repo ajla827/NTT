@@ -70,3 +70,11 @@ Verify the configuration is correct:
 
 show sys dhcp server 1
 
+![image](https://github.com/ajla827/NTT/assets/129989031/5b7e3539-61cc-4c50-9940-514a9aa80c25)
+
+Next Steps:
+Add new devices to the lab workspace, and link them up.
+Configure the LAN network on the firewall through the CLI over the console interface.
+Add a Win10 workstation to the LAN network.
+Connect to the firewall GUI from the Win10 workstation.
+Complete the network setup through the firewall GUI.
