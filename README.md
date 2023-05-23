@@ -88,9 +88,12 @@ Click-and-hold the background image and drag up to show the login prompt.
 Login with the default credentials:
 
 Note: The username is already selected, you only need to enter the password.
+
 Note: Close the OneDrive popup. You can ignore it, or disable it.
 
   username: IEUser
+  
   password: Passw0rd!
+  
   
   
