@@ -62,3 +62,11 @@ conf sys dhcp server
       next
       
   end
+
+![image](https://github.com/ajla827/NTT/assets/129989031/6932195a-5e00-4d3c-8559-d617d3b572dd)
+
+
+Verify the configuration is correct:
+
+show sys dhcp server 1
+
