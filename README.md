@@ -25,7 +25,7 @@ conf sys int
 
 ![image](https://github.com/ajla827/NTT/assets/129989031/4c62f24e-b60f-4259-9f81-d341b0d94028)
 
-Verify the configuration is correct:
+**Verify the configuration is correct:**
 
 show sys int port2
 
@@ -66,13 +66,13 @@ conf sys dhcp server
 ![image](https://github.com/ajla827/NTT/assets/129989031/6932195a-5e00-4d3c-8559-d617d3b572dd)
 
 
-Verify the configuration is correct:
+**Verify the configuration is correct:**
 
 show sys dhcp server 1
 
 ![image](https://github.com/ajla827/NTT/assets/129989031/5b7e3539-61cc-4c50-9940-514a9aa80c25)
 
-Next Steps:
+**Next Steps:**
 Add new devices to the lab workspace, and link them up.
 Configure the LAN network on the firewall through the CLI over the console interface.
 Add a Win10 workstation to the LAN network.
@@ -85,7 +85,7 @@ Start the Win10 workstation in GNS3, and then double click it to connect through
 The first time you start Win10 it will take a minute or two to setup.
 Click-and-hold the background image and drag up to show the login prompt.
 
-Login with the default credentials:
+**Login with the default credentials:**
 
 Note: The username is already selected, you only need to enter the password.
 
@@ -105,6 +105,6 @@ Note: Close the OneDrive popup. You can ignore it, or disable it.
   
 ![image](https://github.com/ajla827/NTT/assets/129989031/eb617d1f-f429-400f-968d-dbfd2781f3db)
 
-#Test network connectivity:
+**Test network connectivity:**
 
 Ping remote destinations to test LAN, WAN, and DNS network connectivity.
