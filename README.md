@@ -119,3 +119,43 @@ Ping remote destinations to test LAN, WAN, and DNS network connectivity.
 ![image](https://github.com/ajla827/NTT/assets/129989031/77f171ad-f62a-4e5d-8e98-03437042b00d)
 
 ---
+Connect to the GUI
+
+Open the web browser on the Win10 workstation and connect to the firewall GUI.
+
+  http://10.128.0.1/
+  
+  ![image](https://github.com/ajla827/NTT/assets/129989031/7b83cda2-8fac-405b-9bd0-af483e85e647)
+
+Make system changes
+
+Set the hostname and timezone.
+
+Enable the NTP server service. This will allow LAN and DMZ devices to sync time with the firewall.
+
+Set idle logout to 60 minutes. By default the GUI will auto logout after 5 minutes of inactivity, for the lab environment you should increase this to 60 minutes to avoid having to constantly log back into the GUI.
+
+Enable auto file system check. This tells the firewall to run a system check during boot up. Enabling this prevents a nagging warning message that pops up during login after an unclean shutdown (powerloss/forced reboot/etc). Instead of sending a warning message, the firewall checks the system itself. In a production environment you might leave this disabled if you were concerned about peak performance for boot up.
+
+Go to System > Settings.
+
+Make the following changes:
+
+  hostname = firewall
+  timezone = GMT -6:00 Central Time (US & Canada)
+  setup device as local NTP server = enabled
+  setup device as local NTP server = enabled
+  idle timeout = 60
+  auto file system check = enabled
+
+Backup the configuration
+
+Click admin in the upper right corner of the GUI to take a backup of the firewall configuration.
+Save the backup.
+This will save to the Downloads folder on Win10.
+
+![image](https://github.com/ajla827/NTT/assets/129989031/7bf3710e-cde0-4b99-9815-cb6e7e3ddc5f)
+
+![image](https://github.com/ajla827/NTT/assets/129989031/c13a7666-61b6-4eb9-90b3-504c17c5699e)
+
+---
