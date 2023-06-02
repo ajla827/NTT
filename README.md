@@ -20,6 +20,12 @@ The client has requested the following:
 
 ![image](https://github.com/ajla827/NTT/assets/129989031/cc494550-2157-496d-adf2-30e0b68a0255)
 
-We then added the FortiNet Firewall, followed by the LAN, DMZ, and the Guest networks.
+First we built the network infrastructure.
 
 ![image](https://github.com/ajla827/NTT/assets/129989031/d275d298-3584-40c9-91f1-78bab2b602b6)
+
+After adding and connecting the Firewall and switches we configured the LAN network on the firewall through the CLI over the console interface.
+
+![image](https://github.com/ajla827/NTT/assets/129989031/00416c9d-a916-471e-ae0d-4dea6f3a6473)
+
+![image](https://github.com/ajla827/NTT/assets/129989031/0131056b-e228-4d24-a826-75e4b11bcc71)
