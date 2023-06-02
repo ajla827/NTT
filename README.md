@@ -1,4 +1,4 @@
-## NTT
+## Small Business Network
 
 This is what I did in NTT class
 
