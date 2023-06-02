@@ -18,4 +18,5 @@ The client has requested the following:
 
 ### Starting topology
 
-![image](https://github.com/ajla827/NTT/assets/129989031/6ddaf975-b8b9-4a37-9e68-71270f06376d)
+![image](https://github.com/ajla827/NTT/assets/129989031/cc494550-2157-496d-adf2-30e0b68a0255)
+
