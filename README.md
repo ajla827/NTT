@@ -20,3 +20,6 @@ The client has requested the following:
 
 ![image](https://github.com/ajla827/NTT/assets/129989031/cc494550-2157-496d-adf2-30e0b68a0255)
 
+We then added the FortiNet Firewall, followed by the LAN, DMZ, and the Guest networks.
+
+![image](https://github.com/ajla827/NTT/assets/129989031/d275d298-3584-40c9-91f1-78bab2b602b6)
