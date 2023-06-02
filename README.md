@@ -48,3 +48,11 @@ Using the Firewall GUI we configured network interfaces, enabled DNS, configured
 
 ![image](https://github.com/ajla827/NTT/assets/129989031/7481d52c-8440-4b88-9b4e-c3c6f7dadc44)
 
+![image](https://github.com/ajla827/NTT/assets/129989031/e7b038fa-9270-4fef-8ac0-6e72d8002afa)
+
+![image](https://github.com/ajla827/NTT/assets/129989031/f82771bf-30ce-4a84-b9ef-46fc603d601f)
+
+![image](https://github.com/ajla827/NTT/assets/129989031/fa9ef9b3-0f22-4d85-b8f8-ffe29109fc99)
+
+![image](https://github.com/ajla827/NTT/assets/129989031/c11b78b0-9cca-4b17-b84f-d384238f630b)
+
