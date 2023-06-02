@@ -35,3 +35,20 @@ Configured the LAN network on the firewall through the CLI over the console inte
 ![image](https://github.com/ajla827/NTT/assets/129989031/6eaa1807-b29b-497b-843f-8d55bfde1e68)
 
 ![image](https://github.com/ajla827/NTT/assets/129989031/9bc23b06-1e40-4649-a6be-2ac5a752e3b9)
+
+Using the Firewall GUI we configured network interfaces, enabled DNS, configured the firewall system DNS and network DNS, created Service Objects, configured firewall rules, and backed up the firewall configurations.
+
+![image](https://github.com/ajla827/NTT/assets/129989031/e8b0982e-4eca-44c9-9805-8ba73dab7675)
+
+![image](https://github.com/ajla827/NTT/assets/129989031/3106d773-3b8f-456d-9c49-81c9da1dfdbf)
+
+![image](https://github.com/ajla827/NTT/assets/129989031/f2061ccc-ef0a-4c5a-8ded-ca625c045053)
+
+![image](https://github.com/ajla827/NTT/assets/129989031/c2006669-9e92-4054-90c6-35dc98ebf2a8)
+
+![image](https://github.com/ajla827/NTT/assets/129989031/63444670-712d-430e-bec0-4d43d6fe126a)
+
+![image](https://github.com/ajla827/NTT/assets/129989031/c6202f16-29cc-406e-917b-fea8038a7443)
+
+![image](https://github.com/ajla827/NTT/assets/129989031/7481d52c-8440-4b88-9b4e-c3c6f7dadc44)
+
