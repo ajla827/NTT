@@ -4,4 +4,4 @@ Building and configuring a SMB Network with a small team using GNS3 and FortiCli
 
 ---
 
-##Starting topology
+# Starting topology
