@@ -26,6 +26,8 @@ First we built the network infrastructure.
 
 After adding and connecting the Firewall and switches we configured the LAN network on the firewall through the CLI over the console interface.
 
-![image](https://github.com/ajla827/NTT/assets/129989031/00416c9d-a916-471e-ae0d-4dea6f3a6473)
+![image](https://github.com/ajla827/NTT/assets/129989031/1901d0d3-4d20-4bbf-8723-ac5e0b0cb52a)
 
-![image](https://github.com/ajla827/NTT/assets/129989031/0131056b-e228-4d24-a826-75e4b11bcc71)
+![image](https://github.com/ajla827/NTT/assets/129989031/d9afaa78-05d2-4eda-bd32-0c0073969f05)
+
+
