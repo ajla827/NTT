@@ -23,7 +23,7 @@ The client has requested the following:
 
 ![image](https://github.com/ajla827/NTT/assets/129989031/622ed26c-9f1e-43ba-872b-a6ddbee1e5e6)
 
-To the starting topology we added a LAN, DMZ, and Guest network. Using the FortiNet firewall CLI we configured the LAN interface and DHCP server. We also added a Windows domain environment, an IIS server, a Windows FTP server, a Win10 workstation, a LAMP webserver running UNBUNTU hosting a dokuwiki, and a Fortigate firewall with a VIP for a DMZ webserver. To finalize the project we hardened the environment, ran a vulnerability test, documented the findings and completed reaserch on how to correct the vulnerabilities according to the vendors.
+To the starting topology we added a LAN, DMZ, and Guest network. Using the FortiNet firewall CLI we configured the LAN interface and DHCP server. We also added a Windows domain environment, an IIS server, a Windows FTP server, a Win10 workstation, a LAMP webserver running UNBUNTU hosting a dokuwiki, and a Fortigate firewall with a VIP for a DMZ webserver. To finalize the project we hardened the environment, ran a vulnerability test, documented the findings and completed research on how to correct the vulnerabilities according to the vendors.
 
 Configured the LAN network on the firewall through the CLI over the console interface and configured the DHCP server for the LAN interface.
 
