@@ -63,6 +63,8 @@ Setting up the Domain Controller.
 
 ![image](https://github.com/ajla827/SMB-Network-Project/assets/129989031/05482c9e-19cd-40d9-80d8-61e49530e60e)
 
+---
+
 We installed Active Directory and created users, admins, and group policies.
 
 ![image](https://github.com/ajla827/SMB-Network-Project/assets/129989031/f88f444b-930f-45d7-8d03-840e13492d21)
@@ -71,3 +73,34 @@ We installed Active Directory and created users, admins, and group policies.
 
 ---
 
+We added and prepared another WIN 2012 Server to join the domain and installed the Internet Information Services (IIS) server role.
+
+![image](https://github.com/ajla827/SMB-Network-Project/assets/129989031/fd3211da-227d-446e-8257-19162cd8d408)
+
+---
+
+Next, we built a LAMP (Linux, Apache, MySQL, PHP/Perl/Python) webserver on Ubuntu server inside our DMZ network.
+
+![image](https://github.com/ajla827/SMB-Network-Project/assets/129989031/1c59abe0-1548-44f5-984e-7ab530ee7dcb)
+
+![image](https://github.com/ajla827/SMB-Network-Project/assets/129989031/f1fa45d3-c736-4f88-bc73-10279cf542e9)
+
+---
+
+Throughout the process we kept documenting what we were configuring and the findings of the vulnerability scan in DokuWiki.
+
+![image](https://github.com/ajla827/SMB-Network-Project/assets/129989031/ba48a220-31cd-4c20-9cbd-34e9569df20f)
+
+---
+
+The last server we built and configure was the FTP server on the DMZ network. 
+
+![image](https://github.com/ajla827/SMB-Network-Project/assets/129989031/fd799c69-4f17-464d-a981-5a194d0fb841)
+
+After completing our SMB network we ran a vulnerability scan using Greebone so we can further secure our networks.
+
+![image](https://github.com/ajla827/SMB-Network-Project/assets/129989031/96fbbf73-737f-44ff-bc26-ae5a0e337080)
+
+![image](https://github.com/ajla827/SMB-Network-Project/assets/129989031/ee3c7e53-fa0a-4b27-8da1-c3b59b11a47f)
+
+![image](https://github.com/ajla827/SMB-Network-Project/assets/129989031/e77a7800-b6ad-4a61-938b-4051be9df78c)
