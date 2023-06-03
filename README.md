@@ -1,6 +1,6 @@
 # Small Business Network
 
-Building and configuring a SMB (small/medium business) Network with a small team using GNS3 and FortiClient VPN. After the network was built and configured we ran a vulnerability scan top identify potential security issues. We algo used Dokuwiki to document network configurations and the vulnerability scan.
+Building and configuring a SMB (small/medium business) Network with a small team using GNS3 and FortiClient VPN. After the network was built and configured we ran a vulnerability scan to identify potential security issues. We algo used Dokuwiki to document network configurations and the vulnerability scan.
 
 The client has requested the following:
 - a secure network
