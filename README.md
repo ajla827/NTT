@@ -97,6 +97,8 @@ The last server we built and configure was the FTP server on the DMZ network.
 
 ![image](https://github.com/ajla827/SMB-Network-Project/assets/129989031/fd799c69-4f17-464d-a981-5a194d0fb841)
 
+---
+
 After completing our SMB network we ran a vulnerability scan using Greebone so we can further secure our networks.
 
 ![image](https://github.com/ajla827/SMB-Network-Project/assets/129989031/96fbbf73-737f-44ff-bc26-ae5a0e337080)
