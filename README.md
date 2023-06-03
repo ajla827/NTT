@@ -13,7 +13,6 @@ The client has requested the following:
 - a DMZ network on 10.128.10.0/24
 - a GUEST network on 10.128.99.0/24
 
-
 ---
 
 ### Starting topology
@@ -47,4 +46,28 @@ Using the Firewall GUI we configured network interfaces, enabled DNS, configured
 ![image](https://github.com/ajla827/NTT/assets/129989031/f82771bf-30ce-4a84-b9ef-46fc603d601f)
 
 ![image](https://github.com/ajla827/NTT/assets/129989031/c11b78b0-9cca-4b17-b84f-d384238f630b)
+
+---
+
+Setting up the Domain Controller.
+
+![image](https://github.com/ajla827/SMB-Network-Project/assets/129989031/8d29112b-e824-44a0-83a8-d64608a48cdf)
+
+![image](https://github.com/ajla827/SMB-Network-Project/assets/129989031/2f5959db-cb8b-40cd-8210-a45ecde164a4)
+
+![image](https://github.com/ajla827/SMB-Network-Project/assets/129989031/39a77ec8-a42f-43b4-b3bf-4b37cfbc4bda)
+
+![image](https://github.com/ajla827/SMB-Network-Project/assets/129989031/5d988ff9-c1ef-4487-9d51-7320e5bde5f9)
+
+![image](https://github.com/ajla827/SMB-Network-Project/assets/129989031/cacbb2cb-075f-46dc-a224-b2b53a915e90)
+
+![image](https://github.com/ajla827/SMB-Network-Project/assets/129989031/05482c9e-19cd-40d9-80d8-61e49530e60e)
+
+We installed Active Directory and created users, admins, and group policies.
+
+![image](https://github.com/ajla827/SMB-Network-Project/assets/129989031/f88f444b-930f-45d7-8d03-840e13492d21)
+
+![image](https://github.com/ajla827/SMB-Network-Project/assets/129989031/261dfaa2-0671-489e-9daf-239b8dc7c55a)
+
+---
 
